@@ -1,0 +1,23 @@
+[
+  {
+    "name": "GBV Command Centre",
+    "district": "National",
+    "phone": "0800 428 428",
+    "type": "hotline",
+    "address": ""
+  },
+  {
+    "name": "Johannesburg Shelter",
+    "district": "Johannesburg",
+    "phone": "011 000 1111",
+    "type": "shelter",
+    "address": "Some Street, Johannesburg"
+  },
+  {
+    "name": "Cape Town Shelter",
+    "district": "Cape Town",
+    "phone": "021 000 2222",
+    "type": "shelter",
+    "address": "Some Road, Cape Town"
+  }
+]

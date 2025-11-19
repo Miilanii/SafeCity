@@ -1,0 +1,29 @@
+[
+  {
+    "agg_date": "2021-05-01",
+    "district": "Johannesburg",
+    "lat": -26.2041,
+    "lon": 28.0473,
+    "incident_count": 1,
+    "rolling_7d_avg": 0.5,
+    "alert": false
+  },
+  {
+    "agg_date": "2021-05-01",
+    "district": "Cape Town",
+    "lat": -33.9249,
+    "lon": 18.4241,
+    "incident_count": 1,
+    "rolling_7d_avg": 0.5,
+    "alert": false
+  },
+  {
+    "agg_date": "2021-05-01",
+    "district": "Durban",
+    "lat": -29.8587,
+    "lon": 31.0218,
+    "incident_count": 1,
+    "rolling_7d_avg": 0.5,
+    "alert": false
+  }
+]
